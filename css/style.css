@@ -1,39 +1,14 @@
-/*
+/* 
 
-        HEADER
-
-*/
-
-
-
-
-
-
-
-/*
-
-        MAIN
+        TO-DO LIST 
 
 */
 
+body{
+        background-color: rgb(0, 255, 64);
+}
 
-
-
-
-
-
-
-/*
-
-        FOOTER
-
-*/
-
-
-
-
-/*
-
-        DEBUG
-
-*/
+.my-container{
+        margin: 0 auto;
+        max-width: 80%;
+}
