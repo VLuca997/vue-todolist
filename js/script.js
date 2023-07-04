@@ -31,11 +31,11 @@ const app = createApp({
             
 
         },
-        removeTodo(index) {
+        removeTodo(index) { // METODO/ FINZIONE per rimozione di un ToDo
             this.toDoList.splice(index, 1);
         },
         toggleTodoDone(todo) {
-            todo.done = !todo.done;
+            todo.done = !todo.done; // invertiamo il valore della proprieta "done" di "todo"
         },
     }
 });
