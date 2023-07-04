@@ -12,16 +12,26 @@ body{
         margin: 0 auto;
         width: 50%;
 }
-
-button {
+.border-app{
         border: none;
         cursor: pointer;
 }
+.button-remove {
+        background-color: rgba(128, 43, 226, 0.103);
+        border: none;
+        cursor: pointer;
+        color: black;
+        
+}
 .completed {
         
-        color:red;
+        color:white;
         background-color: red;
 }
 .colortext{
         color:white;
+}
+li{
+        color: white;
+        background-color: rgba(10, 248, 2, 0.644);
 }
