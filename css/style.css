@@ -10,5 +10,18 @@ body{
 
 .my-container{
         margin: 0 auto;
-        max-width: 80%;
+        width: 50%;
+}
+
+button {
+        border: none;
+        cursor: pointer;
+}
+.completed {
+        
+        color:red;
+        background-color: red;
+}
+.colortext{
+        color:white;
 }
